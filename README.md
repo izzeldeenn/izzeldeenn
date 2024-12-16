@@ -2,10 +2,6 @@
 
   <img align="center" src="https://giphy.com/embed/GHo9mG1G0HbUggqE11" alt="EzzeldeenNasser" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=EzzeldeenNasser&label=عدد%20زيارات%20الملف%20الشخصي&color=blueviolet&style=flat" alt="EzzeldeenNasser" />
-</p>
-
 أنا مطوّر ويب شغوف بخبرة تزيد عن عامين في البرمجة، وأعمل كمتخصص في تطوير التطبيقات الكاملة (Full Stack Developer). أمتلك مهارات واسعة في استخدام تقنيات وأطر عمل مشهورة مثل PHP، Laravel، JavaScript، Bootstrap، HTML، وCSS. بدأت رحلتي في البرمجة بدافع الفضول والرغبة في بناء تطبيقات فعالة وسهلة الاستخدام وقابلة للتوسع. حلمي أن أصبح أفضل مبرمج في العالم وأن أُحدث تأثيراً إيجابياً في المجتمع التقني.  
 
 <details open>
