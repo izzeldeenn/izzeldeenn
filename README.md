@@ -21,22 +21,22 @@
 
 <h2>🔭 إحصائيات GitHub الخاصة بي</h2>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EzzeldeenNasser&show_icons=true&locale=ar&layout=compact" alt="EzzeldeenNasser" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=izzeldeenn&show_icons=true&locale=ar&layout=compact" alt="EzzeldeenNasser" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EzzeldeenNasser&show_icons=true&locale=ar" alt="EzzeldeenNasser" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=izzeldeenn&show_icons=true&locale=ar" alt="izzeldeenn" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=EzzeldeenNasser" alt="EzzeldeenNasser" />
+  <img src="https://github-profile-trophy.vercel.app/?username=izzeldeenn" alt="izzeldeenn" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EzzeldeenNasser" alt="EzzeldeenNasser">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=izzeldeenn" alt="izzeldeenn">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=EzzeldeenNasser&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=مخطط%20المساهمات" alt="EzzeldeenNasser"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=izzeldeenn&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=مخطط%20المساهمات" alt="EzzeldeenNasser"/>
 </p>
 
 <p>
