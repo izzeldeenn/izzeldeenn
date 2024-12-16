@@ -1,6 +1,6 @@
 # مرحباً 👋
 
-![Full Stack Developer](https://giphy.com/embed/GHo9mG1G0HbUggqE11)
+  <img align="center" src="https://giphy.com/embed/GHo9mG1G0HbUggqE11" alt="EzzeldeenNasser" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=EzzeldeenNasser&label=عدد%20زيارات%20الملف%20الشخصي&color=blueviolet&style=flat" alt="EzzeldeenNasser" />
