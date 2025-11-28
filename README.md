@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmR5YmxoMDRjN3pvdGVmMDNqYXV4MWY3bmo5Nm44eTJpcnpwemtwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif" alt="Inspiration" width="100%" />
-</p>
 
 <h1 align="center">عزالدين ناصر 🚀</h1>
 <p align="center">
